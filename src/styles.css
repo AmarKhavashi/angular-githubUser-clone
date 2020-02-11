@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.topPadding{
+	padding-top:17px;
+	padding-bottom:30px;
+}
+.searchPadding{
+	padding-top: 16px;
+    margin-top: 67px;
+}
